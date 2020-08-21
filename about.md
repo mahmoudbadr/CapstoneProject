@@ -21,6 +21,6 @@ Swiftkey.
 #### Note:
 
 The source codes for ui.R and server.R files are also available on the
-GitHub repo: https://github.com/atvarma/Data-Science-Capstone-Final-Project
+GitHub repo: https://github.com/mahmoudbadr/CapstoneProject
 
-Presentation Slide decks are available on the RPubs page: http://rpubs.com/atvarma/413339
+Presentation Slide decks are available on the RPubs page: https://rpubs.com/mbadr/CapstoneProjectPresentation
